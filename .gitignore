@@ -1,0 +1,13 @@
+echo "# HYLE--THE-GPSL" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/RAPHA2L2008/HYLE--THE-GPSL.git
+ git push -u origin maecho "# HYLE--THE-GPSL" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/RAPHA2L2008/HYLE--THE-GPSL.git
+ git push -u origin main
